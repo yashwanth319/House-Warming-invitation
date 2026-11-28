@@ -96,7 +96,7 @@ body {
 }
 
 .hero::before {
-    content: "A";
+    content: "S";
     position: absolute;
     left: 33%;
     top: 40%;
@@ -111,7 +111,7 @@ body {
 }
 
 .hero::after {
-    content: "D";
+    content: "R";
     position: absolute;
     left: 68%;
     top: 61%;
